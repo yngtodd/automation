@@ -26,6 +26,17 @@ Documentation
  
 For references, tutorials, and examples check out our `documentation`_.
 
+Current Libraries Explored
+--------------------------
+
++--------------+------------+-----------+
+| Library      | Working    | Notes     |
++==============+============+===========+
+| `Autokeras`_ | False      | Cannot accept tensors less 4D tensors  |
++--------------+------------+-----------+
+| body row 2   | Cells may span columns.|
++--------------+------------+-----------+
+
 Installation
 ------------
 
@@ -51,3 +62,4 @@ Once you have a copy of the source, you can install it with:
 
 .. _tarball: https://github.com/yngtodd/automation/tarball/master
 .. _documentation: https://automation.readthedocs.io/en/latest
+.. _autokeras: https://autokeras.com/
