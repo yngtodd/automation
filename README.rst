@@ -29,7 +29,7 @@ For references, tutorials, and examples check out our `documentation`_.
 Current Libraries Explored
 --------------------------
 
-.. table:: Truth table for "not"
+.. table
    :widths: auto
    :align: center
 
