@@ -7,15 +7,19 @@ Testing the waters of automl.
 Current Libraries Explored
 --------------------------
 
-+--------------+------------+----------------------------------------+
-| Library      | Working    | Notes                                  |
-+==============+============+========================================+
-| `Autokeras`_ | False      | |autokeras_notes|                      |
-+--------------+------------+----------------------------------------+
-|              |            |                                        |
-+--------------+------------+----------------------------------------+
++--------------------------+------------+----------------------------------------+
+| Library                  | Working    | Notes                                  |
++==========================+============+========================================+
+| `Autokeras`_             | False      | |autokeras_notes|                      |
++--------------------------+------------+----------------------------------------+
+| `Nascell Automl`_        | ?          | |nascell_automl_notes|                 |
++--------------------------+------------+----------------------------------------+
 
-.. |autokeras_notes| replace:: Cannot accept tensors less 4D tensors
+.. |autokeras_notes| replace:: Cannot accept tensors less than 4D tensors
+.. |nascell_automl_notes| replace:: Miraculously gives 100% accuracy on first minibatch.
+
+.. _autokeras: https://autokeras.com/
+.. _Nascell Automl: https://github.com/wallarm/nascell-automl
 
 Documentation
 --------------
@@ -47,4 +51,3 @@ Once you have a copy of the source, you can install it with:
 
 .. _tarball: https://github.com/yngtodd/automation/tarball/master
 .. _documentation: https://automation.readthedocs.io/en/latest
-.. _autokeras: https://autokeras.com/
