@@ -33,15 +33,15 @@ Current Libraries Explored
    :widths: auto
    :align: center
 
-   +--------------+------------+----------------------------------------+
-   | Library      | Working    | Notes                                  |
-   +==============+============+========================================+
-   | `Autokeras`_ | False      | |autokeras_notes|                      |
-   +--------------+------------+----------------------------------------+
-   | body row 2   | Cells may span columns.                             |
-   +--------------+------------+----------------------------------------+
++--------------+------------+----------------------------------------+
+| Library      | Working    | Notes                                  |
++==============+============+========================================+
+| `Autokeras`_ | False      | |autokeras_notes|                      |
++--------------+------------+----------------------------------------+
+| body row 2   | Cells may span columns.                             |
++--------------+------------+----------------------------------------+
 
-   .. |autokeras_notes| replace:: Cannot accept tensors less 4D tensors
+.. |autokeras_notes| replace:: Cannot accept tensors less 4D tensors
 
 Installation
 ------------
