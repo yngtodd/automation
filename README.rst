@@ -29,15 +29,19 @@ For references, tutorials, and examples check out our `documentation`_.
 Current Libraries Explored
 --------------------------
 
-+--------------+------------+----------------------------------------+
-| Library      | Working    | Notes                                  |
-+==============+============+========================================+
-| `Autokeras`_ | False      | |autokeras_notes|                      |
-+--------------+------------+----------------------------------------+
-| body row 2   | Cells may span columns.                             |
-+--------------+------------+----------------------------------------+
+.. table:: Truth table for "not"
+   :widths: auto
+   :align: center
 
-.. |autokeras_notes| replace:: Cannot accept tensors less 4D tensors
+   +--------------+------------+----------------------------------------+
+   | Library      | Working    | Notes                                  |
+   +==============+============+========================================+
+   | `Autokeras`_ | False      | |autokeras_notes|                      |
+   +--------------+------------+----------------------------------------+
+   | body row 2   | Cells may span columns.                             |
+   +--------------+------------+----------------------------------------+
+
+   .. |autokeras_notes| replace:: Cannot accept tensors less 4D tensors
 
 Installation
 ------------
