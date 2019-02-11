@@ -14,12 +14,16 @@ Current Libraries Explored
 +--------------------------+------------+----------------------------------------+
 | `Nascell Automl`_        | ?          | |nascell_automl_notes|                 |
 +--------------------------+------------+----------------------------------------+
+| `ENAS Pytorch`_          | True       | |pytorch_enas_notes|                   |
++--------------------------+------------+----------------------------------------+
 
 .. |autokeras_notes| replace:: Cannot accept tensors less than 4D tensors
 .. |nascell_automl_notes| replace:: Miraculously gives 100% accuracy on first minibatch.
+.. |pytorch_enas_notes| replace:: Character level model.
 
 .. _autokeras: https://autokeras.com/
 .. _Nascell Automl: https://github.com/wallarm/nascell-automl
+.. _ENAS Pytorch: https://github.com/carpedm20/ENAS-pytorch
 
 Documentation
 --------------
