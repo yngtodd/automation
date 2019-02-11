@@ -1,20 +1,3 @@
-.. raw:: html
-
-    <embed>
-        <p align="center">
-            <img width="300" src="https://github.com/yngtodd/automation/blob/master/img/pylibrary.png">
-        </p>
-    </embed>
-
---------------------------
-
-.. image:: https://badge.fury.io/py/automation.png
-    :target: http://badge.fury.io/py/automation
-
-.. image:: https://travis-ci.org/yngtodd/automation.png?branch=master
-    :target: https://travis-ci.org/yngtodd/automation
-
-
 =============================
 Automation
 =============================
