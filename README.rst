@@ -4,11 +4,6 @@ Automation
 
 Testing the waters of automl.
 
-Documentation
---------------
- 
-For references, tutorials, and examples check out our `documentation`_.
-
 Current Libraries Explored
 --------------------------
 
@@ -21,6 +16,11 @@ Current Libraries Explored
 +--------------+------------+----------------------------------------+
 
 .. |autokeras_notes| replace:: Cannot accept tensors less 4D tensors
+
+Documentation
+--------------
+ 
+For references, tutorials, and examples check out our `documentation`_.
 
 Installation
 ------------
