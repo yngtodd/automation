@@ -16,14 +16,18 @@ Current Libraries Explored
 +--------------------------+------------+----------------------------------------+
 | `ENAS Pytorch`_          | True       | |pytorch_enas_notes|                   |
 +--------------------------+------------+----------------------------------------+
+| `ADANET`_                | False      | |adanet_notes|                         |
++--------------------------+------------+----------------------------------------+
 
 .. |autokeras_notes| replace:: Cannot accept tensors less than 4D tensors
 .. |nascell_automl_notes| replace:: Miraculously gives 100% accuracy on first minibatch.
 .. |pytorch_enas_notes| replace:: Character level model.
+.. |adanet_notes| replace:: Designed around imaging and would require considerable work for NLP.
 
 .. _autokeras: https://autokeras.com/
 .. _Nascell Automl: https://github.com/wallarm/nascell-automl
 .. _ENAS Pytorch: https://github.com/carpedm20/ENAS-pytorch
+.. _ADANET: https://github.com/tensorflow/adanet
 
 Documentation
 --------------
